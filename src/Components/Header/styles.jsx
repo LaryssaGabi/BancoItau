@@ -69,6 +69,8 @@ export const DivButtonAccess = styled.div`
   background-color: #106eb0;
   cursor: pointer;
   border-radius: 3px;
+  transition: background-color 0.3s ease; 
+  
 
   &:hover{
     background-color: #0a5f8d;

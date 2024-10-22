@@ -8,7 +8,7 @@ import ImagePhone from "../../assets/phone.png";
 
 export default function SectionService() {
   return (
-    <S.Section>
+    <S.Section id="section-service">
       <S.Container>
         <S.DivLeft>
           <S.Span data-aos="fade-up" data-aos-delay="100" >Serviços exclusivos</S.Span>

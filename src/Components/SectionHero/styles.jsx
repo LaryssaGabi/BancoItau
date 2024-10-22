@@ -55,6 +55,12 @@ export const ButtonExplorer = styled.button`
     background-color: transparent;
     border: none;
     gap: 15px;
+    cursor: pointer;
+    transition: transform 0.8s ease; 
+
+  &:hover {
+    transform: scale(1.1); 
+  }
 `
 
 export const Span = styled.span`
