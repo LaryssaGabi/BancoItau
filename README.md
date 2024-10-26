@@ -1,4 +1,4 @@
-# Banco do Brasil - Seção Hero, Header e Serviços
+# Banco do Itau
 
 Este projeto contém três componentes principais da interface do Banco do Brasil: `SectionHero`, `Header` e `SectionService`. Cada componente é responsável por uma parte específica da página, desde a introdução até os serviços oferecidos.
 
